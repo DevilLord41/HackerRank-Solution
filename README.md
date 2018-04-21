@@ -8,3 +8,6 @@ I using fast scanner class from <a href="https://www.geeksforgeeks.org/fast-io-i
 
 #### Solving
 I used some short random variable name like `a`,`b`,`c`,`x`, so if you like to read my code, please understand what the variable does.
+
+#### About Me
+Im Chinese, currently live at Pekanbaru, Indonesia. Im born at November, 16 2000. Still a high school student (11th class now), Currently study as Software Engineering (In Indonesia, its called RPL / Rekayasa Perangkat Lunak). I want to become Game Developer, developing my own game system, especially RPG Game. Im bad at Mathematics. My programming skill are not so good, but i like to solving problem and do challenge. I dont understand much algorithm like Dynamic Programming, Graph Teory, Constructive Algorithm or advance Greedy. I also don't understand Bitwise, So don't ask me much about these. My favorite food are meat like KFC, fried chichen, steak, or noodles. I Hate vegetables. 
