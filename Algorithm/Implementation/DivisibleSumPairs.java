@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution {
+public class DivisibleSumPairs {
 
     /*
      * https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
