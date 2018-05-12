@@ -11,7 +11,7 @@ public class Pangrams {
 	/*
 	 * 
 	 * https://www.hackerrank.com/challenges/pangrams/problem
-	 * 
+	 *
 	 */
 	
 	private static final long MODULO = (long)(10e9)+7;
